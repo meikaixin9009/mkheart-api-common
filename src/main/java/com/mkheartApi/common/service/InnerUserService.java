@@ -1,8 +1,6 @@
 package com.mkheartApi.common.service;
 
 
-import com.mkheartApi.common.model.entity.User;
-
 /**
  * 用户服务
  *

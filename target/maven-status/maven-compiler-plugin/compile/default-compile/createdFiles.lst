@@ -1,3 +1,4 @@
+com\mkheartApi\common\model\entity\OrderInfo.class
 com\mkheartApi\common\model\dto\interfazeInfo\InterfazeInfoAddRequest.class
 com\mkheartApi\common\model\dto\interfazeInfo\InterfazeInfoUpdateRequest.class
 com\mkheartApi\common\model\dto\interfazeInfo\InterfazeInfoQueryRequest.class

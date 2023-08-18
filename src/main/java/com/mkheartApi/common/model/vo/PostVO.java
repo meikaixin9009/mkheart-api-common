@@ -1,7 +1,6 @@
 package com.mkheartApi.common.model.vo;
 
 
-import com.mkheartApi.common.model.entity.Post;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 

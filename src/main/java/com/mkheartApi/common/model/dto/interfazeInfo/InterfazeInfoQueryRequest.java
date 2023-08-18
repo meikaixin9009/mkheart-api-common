@@ -24,7 +24,7 @@ public class InterfazeInfoQueryRequest extends PageRequest implements Serializab
     /**
      * 名称
      */
-    private String name;
+    private String interfazeName;
 
     /**
      * 描述
